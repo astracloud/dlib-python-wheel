@@ -8,6 +8,8 @@ The precompiled dlib wheel package for MacOS, Ubuntu x86 and Rabian OS
  
 And you will get the right pip wheel package you want! 
 
+Also, any pull requests are welcome, please kindly share the resource to the community! 
+
 Happy coding! 
 
 
